@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import Operacoes from "./components/Operacoes.vue";
+import Operacoes from "./components/index.vue";
 
 
 export default {
